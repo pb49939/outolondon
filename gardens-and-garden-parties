@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<!--[if lt IE 9 ]><html class="no-js oldie" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+
+    <!--- basic page needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>Gardens and Garden Parties</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- mobile specific metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/vendor.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- script
+    ================================================== -->
+    <script src="js/modernizr.js"></script>
+    <script src="js/pace.min.js"></script>
+
+    <!-- favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+
+
+<body id="top">
+
+    <!-- header
+    ================================================== -->
+    <header class="s-header">
+
+           
+            
+        
+
+        <nav class="header-nav-wrap">
+            <ul class="header-nav">
+                <li><a href="index.html" title="home">Home</a></li>
+                <li><a href="index.html#about" title="about">About Trip</a></li>
+                <li class="current"><a href="index.html#theDays" title="theDays">The Days</a></li>
+                <li><a href="index.html#gallery" title="gallery">Gallery</a></li>
+                <li><a href="index.html#cheers" title="cheers">Cheers</a></li>
+                <li><a href="index.html#contact" title="contact">Contact</a></li>
+                <li><a href="index.html" title="home">All Posts</a></li>
+            </ul>
+        </nav>
+
+        <a class="header-menu-toggle" href="#0"><span>Menu</span></a>
+
+    </header> <!-- end s-header -->
+
+
+
+
+    <article class="blog-single">
+
+        <!-- page header/blog hero
+        ================================================== -->
+        <div class="page-header page-header--single page-hero" style="background:url(images/blog/mall.JPG) no-repeat; background-size: cover;">
+
+    
+    
+        
+            <div class="row page-header__content narrow">
+                <article class="col-full">
+                    <div class="page-header__info">
+                        <div class="page-header__cat">
+                            <a href="#0">Hampton Court Pallace, Tom, Massey, and Rufus, Lambeth Pallace, Garden Party, Amy and her Underwelming Books, The Crown and Sceptre.</a>
+                        </div>
+                    </div>
+                    <h1 class="page-header__title">
+                        <a href="#0" title="">
+                            Gardens and Garden Parties
+                        </a>
+                    </h1>
+                    <ul class="page-header__meta">
+                        <li class="date">Friday, June 1st</li>
+                        <li class="author">
+                            By
+                            <span>Nicolaas Schimmel & Patrick Baldwin</span>
+                        </li>
+                    </ul>
+                    
+                </article>
+            </div>
+
+           
+        </div> <!-- end page-header -->
+
+        <div class="row blog-content">
+            <div class="col-full blog-content__main">
+
+                <p class="lead">Our day began with a far less luxurious (i.e. trolley-less) train ride to Hampton Court Palace. On the bumpy ride in the gallows of economy rail transport, we did see the world-famous Wimbledon tennis stop whizz by us. If Annikka wasn't fast asleep earning her name, "Chubakka", it could have had the potential to be a mutually shared enlightening experience for the whole group.  
+
+
+                </p>
+
+                         <h2 class="centered-h2-blog"  id="centered-h2">Annikka Becomes Chewbakka</h2>
+                <div class="bar-sep"></div>
+                <p>
+                <img id="centered-small-img" src="images/blog/chewy.JPG" 
+                     alt="">
+                </p>
+                
+                <p>We disembarked the train and took a quick walk across the Thames to a soon-to-be highlight for all, Hampton Court Palace.  The architecture is unbelievable: vaulted ceilings, huge murals, the Tudor Style (a spitting image of Oakland’s Meadowbrook), all on an unimaginable scale. We ditched the tour headsets in order to shadow our fearless professor whose commentary was comprised of more color and passion than any of the elctronic voices could ever wish to posess. Our first stop was the Chapel Royale. Here we saw the royal box and the baptismal font used for Edward’s baptism. While Engle distracted the palace guards, Sarah snapped illegal pictures of the fake crown jewels in a Plexiglas box. Turning the finest members of Oakland University's honors college into criminals had joined the list of how we truly made Richmond Court "wild". We exited via Henry’s apartments, and had a treasure hunt in the banqueting room: who could find the “H A” (Henry + Anne) insignia that survived the “cleansing” following her execution? 
+                </p>
+
+       
+
+                <p>Then came the tour of the vast gardens with Yute trees shaped like mushrooms. Additionally, an unplanned horse carriage ride, which was also a highlight of the trip. We were introduced to Rufus and Ed (well, Engle said his name was Ed).  [Editor note:  it was Massey]. On our ride, we learned about King Henry VIII’s hunting style, which was simply to “attack and slaughter.” Curiously, we learned the Henry was hunting the hour of Queen Anne’s execution, and when he heard the cannon signal that the deed was done, he went to the chapel to file immediately his wedding bans to marry Jane Seymour. We also learned how William III and Mary destroyed much of the palace in order to get an “open concept” “river view” from their master bedroom. And with that, HGTV was born. Off carriage, we strolled by the walled gardens to marvel at the world’s largest grape vine. We also saw the tennis courts, and Henry’s empty wine cellar. 
+                </p>
+
+                <h2 class="centered-h2-blog"  id="centered-h2">Mounting Tom and Massey</h2>
+                <div class="bar-sep"></div>
+                <p>
+                <img id="centered-small-img" src="images/blog/tom-and-massey.JPG" 
+                     alt="">
+                </p>
+
+                <p>
+
+                The group assembled at the train station for a 1:00pm ride back to London, everyone took lunch onboard. From the London Waterloo train station we walked up the Thames to Lambeth Palace, wearing our finest clothes for the Archbishop’s garden party. Alas, we could only see His Grace from afar, through his office window. And the garden party turned out to be punch in a Styrofoam cup (at a pricey one pound cost). Nevertheless, we got great group pictures in all our finery, followed by a tour of the Archbishop’s chapel. At the conclusion of the Garden Party, our group was met by Amy. Amy was excited to tell us all about 19th century marriage registers. Engle and Emma were the only ones who managed to stay awake for the entire talk. The US army has been notified of their raw potential and courage. 
+                </p>
+
+                <h2 class="centered-h2-blog"  id="centered-h2">The Crew Outdressing His Grace at the Garden Party</h2>
+                <div class="bar-sep"></div>
+                <p>
+                <img id="centered-small-img" src="images/blog/garden-party.JPG" 
+                     alt="">
+                </p>
+
+                <p>We tubed back to Richmond Court, and after a quick refresh, Engle treated us to dinner at the Crown and Sceptre. The place was lined with gaggles of London's finest millenials. The “fish and chippies” were amazing, but the hamburgers were dry and tasteless. We convinced the bartender to play “I’m Upset” by the GOAT, Drake. We watched the pub's inhabitants begin to bob their heads up and down in approval. They were feeling the GOAT. This was followed by beating Jonathan Engle in a trans-continental meme war. All in all, the Crown and Sceptre taught us a valuable lesson about the true meaning of melleniality - and how sometimes, all it takes is the bravery to ask a bartender to play the GOAT's latest track to gain the acceptance of your peers. 
+                </p>
+
+                  <p>Following dinner, most of the group meandered back home. Emma and Stephanie swore they heard gunshots; the gallant, and fearless professor did a sweep of Richmond Court and environs only to announce it was the backfire of a motorcycle.  Relieved, all went back to sleep to prepare for the coming day. 
+                </p>
+
+                
+               
+                
+    
+                <p class="blog-content__tags">
+                    <span>Post Tags</span>
+
+                    <span class="blog-content__tag-list">
+                        <a href="#0">Hampton Court Pallace</a>
+                        <a href="#0">Tom and Massey</a>
+                        <a href="#0">Lambeth Palace</a>
+                        <a href="#0">Garden Party</a>
+                        <a href="#0">Amy and Her Underwelming Books</a>
+                        <a href="#0">The Crowne and Sceptre</a>
+                    </span>
+
+                </p>
+
+                <div class="blog-content__pagenav">
+                    <div class="blog-content__nav">
+                        
+                        <div class="blog-content__next">
+                            <a href="#0" rel="next">
+                                <span>Next Post</span>
+                           Gin and Government
+
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="blog-content__all">
+                        <a href="index.html#theDays" class="btn btn--primary">
+                            View All Posts
+                        </a>
+                    </div>
+                </div>
+
+            </div><!-- end blog-content__main -->
+        </div> <!-- end blog-content -->
+
+    </article>
+
+
+   
+    
+            <div class="row footer-bottom">
+    
+                <div class="col-twelve">
+                    <div class="copyright">
+                        
+                    </div>
+    
+                    <div class="go-top">
+                    <a class="smoothscroll" title="Back to Top" href="#top"><i class="im im-arrow-up" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+    
+            </div> <!-- end footer-bottom -->
+    
+        </footer> <!-- end footer -->
+    
+    
+        <div id="preloader"> 
+            <div id="loader"></div>
+        </div>
+    
+    
+        <!-- Java Script
+        ================================================== -->
+        <script src="js/jquery-3.2.1.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+
+</body>
+
+</html>
